@@ -8,6 +8,7 @@
 ```sh
 git clone https://github.com/voidCaloneian/tree-menu-test-task.git
 cd tree-menu-test-task
+pip install virtualenv
 virtualenv env
 env\Scripts\activate
 pip install -r requierments.txt
