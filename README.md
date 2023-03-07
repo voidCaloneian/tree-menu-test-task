@@ -10,7 +10,7 @@ git clone https://github.com/voidCaloneian/tree-menu-test-task.git
 cd tree-menu-test-task
 virtualenv env
 env\Scripts\activate
-pip -r install requierments.txt
+pip install -r requierments.txt
 python ./manage.py runserver
 ```
 
@@ -19,6 +19,6 @@ python ./manage.py runserver
 ```sh
 git clone https://github.com/voidCaloneian/tree-menu-test-task.git
 cd tree-menu-test-task
-pip -r install requierments.txt
+pip install -r requierments.txt
 python ./manage.py runserver
 ```
