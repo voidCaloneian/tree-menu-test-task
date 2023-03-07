@@ -1,0 +1,15 @@
+*{
+    font-size: 20px !important;
+    text-decoration:none !important;
+    color: black !important;
+}
+
+.active{
+    color: rgb(33, 160, 1) !important;
+}
+
+h1 {
+    background-color: #FFC5C5;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+}
