@@ -12,6 +12,7 @@ virtualenv env
 env\Scripts\activate
 pip install -r requierments.txt
 python ./manage.py runserver
+
 ```
 
 ## Напрямую
@@ -21,4 +22,5 @@ git clone https://github.com/voidCaloneian/tree-menu-test-task.git
 cd tree-menu-test-task
 pip install -r requierments.txt
 python ./manage.py runserver
+
 ```
