@@ -8,7 +8,6 @@ from menuApp.models import Menu
 from time import perf_counter
 
 
-
 register = template.Library()
 @register.simple_tag()
 def draw_menu(name : str):
