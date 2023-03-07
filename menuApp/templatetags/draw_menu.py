@@ -69,5 +69,5 @@ def draw_menu(name : str):
     num_queries = len(connection.queries)
     menu = build_menu(top_ancestor)
     #  Рендер статистики функции
-    stat = f"<h1>Количество запросов: {num_queries} <br> Времени затрачено на рендер дерева: {int((perf_counter() - start) * 1000)} мс.</h1>" 
+    stat = f"<h1>Количество запросов в базу данных: {num_queries} <br> Времени затрачено на рендер дерева: {int((perf_counter() - start) * 1000)} мс.</h1>" 
     return stat + menu
