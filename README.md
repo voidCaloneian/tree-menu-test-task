@@ -25,3 +25,4 @@ pip install -r requierments.txt
 python ./manage.py runserver
 
 ```
+![изображение](https://user-images.githubusercontent.com/106653303/223402355-1a8605e1-b125-46e6-97ff-c3b4da985828.png)
